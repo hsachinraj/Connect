@@ -1,4 +1,4 @@
-# Welcome to ASP.NET Core
+# Welcome to ASP.NET Core Project
 
 ## This application consists of:
 
