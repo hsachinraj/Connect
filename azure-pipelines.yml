@@ -40,7 +40,7 @@ steps:
   displayName: Publish
   inputs:
     command: publish
-    publishWebProjects: True
+    publishWebProjects: False
     arguments: '--configuration $(BuildConfiguration) --output $(build.artifactstagingdirectory)/website'
     zipAfterPublish: True
 
