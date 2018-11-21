@@ -30,4 +30,3 @@ To develop locally create an environment variable named APPINSIGHTS_INSTRUMENTAT
   "InstrumentationKey": "10101010-1010-1010-1010-101010101010"
 }
 ```
-Demo
