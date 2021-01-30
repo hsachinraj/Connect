@@ -24,7 +24,7 @@ namespace RealCoreApp.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your Contact page.";
+            ViewData["Message"] = "Your Contact page here.";
 
             return View();
         }
